@@ -13,7 +13,7 @@ Dicas:
 
 - Divirta-se, construa soluções que sejam a sua cara.
 
-- Quando terminar, criar um repositório privado no github com acesso para o usuário: [rafaelsirotheau, geru-challenge]
+- Quando terminar, criar um repositório privado no github com acesso para o usuário @rafasirotheau
 
 
 #### Funcionalidades
