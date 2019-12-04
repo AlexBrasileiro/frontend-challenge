@@ -8,8 +8,9 @@ Dicas:
   - Reutilização de código;
   - Adoção de padrões de projeto;
 
-
 - Não é obrigado a seguir a risca as sugestões ou as telas propostas;
+
+- Levamos tudo em conta: de README a commits.
 
 - Divirta-se, construa soluções que sejam a sua cara.
 
