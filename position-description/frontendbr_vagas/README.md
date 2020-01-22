@@ -34,9 +34,9 @@ Escritório, São Paulo - Pinheiros
 ## Requisitos
 
 **Obrigatórios:**
+- Javascript/ECMASCript
 - HTML5
 - CSS3
-- Javascript (ES6+)
 - React
 
 **Desejáveis:**
