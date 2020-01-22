@@ -5,7 +5,7 @@ Se você quer trabalhar em uma empresa com propósito, diversidade e um ambiente
 
 **Nossa stack:**
 - React
-- Styled-components
+- Styled Components
 - Flow (Com planos de migração para TS)
 - GraphQL (Node.js)
 - Python
