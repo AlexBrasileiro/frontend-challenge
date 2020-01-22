@@ -41,7 +41,8 @@ Escritório, São Paulo - Pinheiros
 
 **Desejáveis:**
 - GraphQL
-- Styled-components
+- Styled Components
+- State Management (Redux, MobX, Context)
 - Git
 
 **Diferenciais:**
