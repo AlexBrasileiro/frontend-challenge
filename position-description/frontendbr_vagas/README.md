@@ -25,6 +25,7 @@ Escritório, São Paulo - Pinheiros
 
 #### Diferenciais
 
+- Reuniões semanais do **Capítulo de Front-end**, onde discutimos novas tecnologias (e a possibilidade de utiliza-las), melhorias e soluções para problemas comuns relacionados ao nosso dia a dia.
 - No Dress Code: venha como se sente confortável!
 - Ambiente descontraído, diverso e inclusivo;
 - Snacks e frutas;
