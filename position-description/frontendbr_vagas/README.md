@@ -3,12 +3,15 @@
 Estamos procurando um (a) profissional para atuar junto do nosso Time de Desenvolvedores.
 Se você quer trabalhar em uma empresa com propósito, diversidade e um ambiente descontraído, vem trabalhar com a gente!!
 
-**Nossa stack:**
-- React
-- Styled Components
-- Flow (Com planos de migração para TS)
+A Geru usa **Python** e **Javascript** como suas principais linguagens de programação. Para frontend, utilizamos as seguintes libs:
+
+- React;
+- Styled Components;
+- Flow (com planos de migração para Typescript);
 - GraphQL (Node.js)
-- Python
+
+Além disso, utilizamos **Jest/Enzyme** para testes unitários e integrados (queremos migrar para react-testing-library).
+
 
 ## Local
 
