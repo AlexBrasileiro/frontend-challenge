@@ -33,7 +33,8 @@ Escritório, São Paulo - Pinheiros
 - Ambiente descontraído, diverso e inclusivo;
 - Snacks e frutas;
 - Sala de descompressão, com jogos e video-game;
-- Área exclusiva para guardar sua bike (e chuveiro);
+- Área exclusiva para guardar sua bike;
+- Vestiário com Chuveiro;
 - Geru Talks
 
 ## Requisitos
