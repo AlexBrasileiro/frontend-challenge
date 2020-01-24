@@ -20,7 +20,7 @@ Escritório, São Paulo - Pinheiros
 ## Benefícios
 
 - Flexibilidade de horário;
-- Plano de saúde do Bradesco (sem desconto para nossos funcionários);
+- Plano de saúde Amil 700 (sem desconto para nossos funcionários);
 - Vale refeição (R$ 27,00 dia);
 - Vale transporte;
 - Seguro de vida;
