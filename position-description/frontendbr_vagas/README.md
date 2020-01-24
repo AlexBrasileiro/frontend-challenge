@@ -44,14 +44,25 @@ Escritório, São Paulo - Pinheiros
 - HTML5
 - CSS3
 - React
+- Ownership
+- Princípios de desenvolvimento de software
+- Design Patterns
+- Boas práticas e Clean Code
+- Cuidado com a UX
 
 **Desejáveis:**
 - GraphQL
 - Styled Components
 - State Management (Redux, MobX, Context)
 - Git
+- Implementação de testes automatizados (unitários, integrados, ...)
+- Tipagem
+- Vivência em metodologias ágeis
 
 **Diferenciais:**
+- Typescript
+- BDD
+- TDD
 - Node.js
 
 ## Contratação
